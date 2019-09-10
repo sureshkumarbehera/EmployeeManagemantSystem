@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/ecj-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/home/sakha-dell-7/Downloads/apache-tomcat-9.0.24/lib/annotations-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
